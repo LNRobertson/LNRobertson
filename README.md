@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- :mortar_board: I’m currently working on a Data Science Career Track certification with Springboard and helping out as a Peer Mentor volunteer. 
+- :mortar_board: I’m currently working on a Data Science Career Track certification with Springboard and helping out as a Peer Organizer volunteer. 
 - :beers: Checkout my [Beer Ratings Prediction](https://github.com/LNRobertson/Beer-Rating-Prediction.git) repo where I used Hierarchical Clustering and Linear Regression on a dataset from Beeradvocate.com 
 - 👯 I’m looking to collaborate or volunteer on projects for social good. 
 - :books: I work with Python, SQL and Tableau 

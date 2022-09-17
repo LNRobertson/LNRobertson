@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate or volunteer on projects for social good. 
 - :books: I work with Python, SQL and Tableau 
 - 📫 How to reach me: <url>www.linkedin.com/in/lnrobertson <url/>
-- ⚡ Fun fact: I'm into yoga, mediation, quatum physics, consciousness and AI :aquarius: 
+- ⚡ Fun fact: I'm into yoga, mediation, quantum physics, consciousness and AI :aquarius: 

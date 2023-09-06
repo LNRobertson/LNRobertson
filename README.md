@@ -11,4 +11,4 @@ I've spent my career in business management, strategic planning, and digital mar
 - :books: I work with Python, SQL, and Tableau (or whatever tool is needed to get the job done!)
 - :bulb: I'm adept at defining business problems with data solutions, communicating at all technical levels, and galvanizing insights across disciplines. 
 - 📫 How to reach me: <url>www.linkedin.com/in/lnrobertson <url/>
-- ⚡ Fun fact: I'm into yoga, meditation, quantum physics, consciousness, and AI : aquarius: 
+- ⚡ Fun fact: I'm into yoga, meditation, quantum physics, consciousness, and AI :aquarius: 
